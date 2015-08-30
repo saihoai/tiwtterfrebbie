@@ -1,0 +1,8 @@
+.col-md-twitter { float: none; margin: 20px auto; }
+.col-md-twitter .panel-twitter { overflow: hidden; border-radius: 4px; }
+.col-md-twitter .panel-twitter .panel-body{ padding: 0 15px; }
+.col-md-twitter .panel-twitter .thumbnail { margin: 15px 0 0 0; }
+.col-md-twitter .panel-twitter h4 { margin: 15px 0 10px; }
+.col-md-twitter .panel-twitter .panel-body .btn-group-vertical .btn { border-radius: 0; }
+.col-md-twitter .panel-twitter .panel-footer .input-group .input-group-addon { border: 0 none; background-color: transparent; padding: 0; }
+.col-md-twitter .panel-twitter .panel-footer .input-group .form-control { background-color: transparent; border: 0 none; box-shadow: none; }
